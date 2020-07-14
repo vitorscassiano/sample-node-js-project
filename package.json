@@ -1,0 +1,19 @@
+{
+  "name": "sample-node-js-project",
+  "version": "1.0.0",
+  "description": "A simple project example.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "jest",
+    "dev": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.1.0",
+    "nodemon": "^2.0.4",
+    "prettier": "^2.0.5"
+  }
+}
